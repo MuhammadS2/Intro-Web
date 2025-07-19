@@ -1,0 +1,26 @@
+h1 {
+    font-size: 50px;
+    color: red;
+    background-color: yellow;
+    padding: 30px;
+    margin: 50px;
+}
+
+body {
+    text-align: center;
+}
+
+.prg {
+    color: red;
+}
+
+
+#mybtn, #mybtnback {
+    width: 100px;
+    height: 50px;
+    font-size: 15px;
+    background-color: blue;
+    color: white;
+    border-radius: 15px;
+    border: 2px solid red;
+}
